@@ -15,7 +15,9 @@ HW2 : https://colab.research.google.com/drive/1JaK6JnqAZzgqaEAMx2-soa3iNdca2RtX?
 
 HW3 : https://colab.research.google.com/drive/1Q-NiQquyJaCl9nv_r7vFJimeFrprAp3f?usp=sharing
 
-HW4 :
+HW4 : https://medium.com/@vnjsdlemw_57536/f5a84967c798?source=friends_link&sk=ae083fd5b06279722f4c9e6b441ff457
+
+
 
 
 ## 專題連結區
