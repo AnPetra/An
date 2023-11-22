@@ -15,7 +15,13 @@ HW2 : https://colab.research.google.com/drive/1JaK6JnqAZzgqaEAMx2-soa3iNdca2RtX?
 
 HW3 : https://colab.research.google.com/drive/1Q-NiQquyJaCl9nv_r7vFJimeFrprAp3f?usp=sharing
 
-HW4 : https://reurl.cc/7Mv3qb
+HW4 : https://colab.research.google.com/drive/1JhvITClmJ6hzRlDLNlSR1tHm-2Rz5MiL?usp=share_link  
+Medium : https://reurl.cc/7Mv3qb
+
+HW5 : https://colab.research.google.com/drive/16HpYwP4t8d_kocTg7Rc8fYH5FtJipbHF?usp=sharing
+Medium : 
+
+
 
 
 
