@@ -19,7 +19,9 @@ HW4 : https://colab.research.google.com/drive/1JhvITClmJ6hzRlDLNlSR1tHm-2Rz5MiL?
 Medium : https://reurl.cc/7Mv3qb
 
 HW5 : https://colab.research.google.com/drive/16HpYwP4t8d_kocTg7Rc8fYH5FtJipbHF?usp=sharing  
-Medium : 
+Medium : https://medium.com/@vnjsdlemw_57536/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80-lda%E6%A8%A1%E5%9E%8B%E5%88%86%E6%9E%90-e459623898fa
+
+
 
 
 
